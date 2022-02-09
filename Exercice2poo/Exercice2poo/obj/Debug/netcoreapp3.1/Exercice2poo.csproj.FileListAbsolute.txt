@@ -1,0 +1,13 @@
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.exe
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.deps.json
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.runtimeconfig.json
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.runtimeconfig.dev.json
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.dll
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\bin\Debug\netcoreapp3.1\Exercice2poo.pdb
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.csproj.AssemblyReference.cache
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.AssemblyInfoInputs.cache
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.AssemblyInfo.cs
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.csproj.CoreCompileInputs.cache
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.dll
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.pdb
+C:\Users\m.seux\Documents\Exercice_poo\Exercice2poo\Exercice2poo\obj\Debug\netcoreapp3.1\Exercice2poo.genruntimeconfig.cache
